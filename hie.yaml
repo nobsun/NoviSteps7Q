@@ -1,0 +1,574 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "NoviSteps7Q:lib"
+
+    - path: "./app/754/Main.hs"
+      component: "NoviSteps7Q:exe:754"
+
+    - path: "./app/754/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:754"
+
+    - path: "./app/81/Main.hs"
+      component: "NoviSteps7Q:exe:81"
+
+    - path: "./app/81/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:81"
+
+    - path: "./app/Main.hs"
+      component: "NoviSteps7Q:exe:NoviSteps7Q"
+
+    - path: "./app/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:NoviSteps7Q"
+
+    - path: "./app/accepted/Main.hs"
+      component: "NoviSteps7Q:exe:accepted"
+
+    - path: "./app/accepted/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:accepted"
+
+    - path: "./app/achievethegoal/Main.hs"
+      component: "NoviSteps7Q:exe:achievethegoal"
+
+    - path: "./app/achievethegoal/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:achievethegoal"
+
+    - path: "./app/add-entry/Main.hs"
+      component: "NoviSteps7Q:exe:add-entry"
+
+    - path: "./app/add-entry/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:add-entry"
+
+    - path: "./app/ahealthybreakfast/Main.hs"
+      component: "NoviSteps7Q:exe:ahealthybreakfast"
+
+    - path: "./app/ahealthybreakfast/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:ahealthybreakfast"
+
+    - path: "./app/algae/Main.hs"
+      component: "NoviSteps7Q:exe:algae"
+
+    - path: "./app/algae/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:algae"
+
+    - path: "./app/atcoderbeginnercontest111/Main.hs"
+      component: "NoviSteps7Q:exe:atcoderbeginnercontest111"
+
+    - path: "./app/atcoderbeginnercontest111/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:atcoderbeginnercontest111"
+
+    - path: "./app/atozstring/Main.hs"
+      component: "NoviSteps7Q:exe:atozstring"
+
+    - path: "./app/atozstring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:atozstring"
+
+    - path: "./app/b121/Main.hs"
+      component: "NoviSteps7Q:exe:b121"
+
+    - path: "./app/b121/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:b121"
+
+    - path: "./app/battle/Main.hs"
+      component: "NoviSteps7Q:exe:battle"
+
+    - path: "./app/battle/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:battle"
+
+    - path: "./app/bcomparison/Main.hs"
+      component: "NoviSteps7Q:exe:bcomparison"
+
+    - path: "./app/bcomparison/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:bcomparison"
+
+    - path: "./app/biteeating/Main.hs"
+      component: "NoviSteps7Q:exe:biteeating"
+
+    - path: "./app/biteeating/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:biteeating"
+
+    - path: "./app/bitteralchemy/Main.hs"
+      component: "NoviSteps7Q:exe:bitteralchemy"
+
+    - path: "./app/bitteralchemy/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:bitteralchemy"
+
+    - path: "./app/blocksongrid/Main.hs"
+      component: "NoviSteps7Q:exe:blocksongrid"
+
+    - path: "./app/blocksongrid/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:blocksongrid"
+
+    - path: "./app/bounding/Main.hs"
+      component: "NoviSteps7Q:exe:bounding"
+
+    - path: "./app/bounding/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:bounding"
+
+    - path: "./app/buffet/Main.hs"
+      component: "NoviSteps7Q:exe:buffet"
+
+    - path: "./app/buffet/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:buffet"
+
+    - path: "./app/canyousolvethis/Main.hs"
+      component: "NoviSteps7Q:exe:canyousolvethis"
+
+    - path: "./app/canyousolvethis/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:canyousolvethis"
+
+    - path: "./app/chocolate/Main.hs"
+      component: "NoviSteps7Q:exe:chocolate"
+
+    - path: "./app/chocolate/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:chocolate"
+
+    - path: "./app/christmaseveeve/Main.hs"
+      component: "NoviSteps7Q:exe:christmaseveeve"
+
+    - path: "./app/christmaseveeve/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:christmaseveeve"
+
+    - path: "./app/collectingballs/Main.hs"
+      component: "NoviSteps7Q:exe:collectingballs"
+
+    - path: "./app/collectingballs/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:collectingballs"
+
+    - path: "./app/comparingstrings/Main.hs"
+      component: "NoviSteps7Q:exe:comparingstrings"
+
+    - path: "./app/comparingstrings/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:comparingstrings"
+
+    - path: "./app/comparison/Main.hs"
+      component: "NoviSteps7Q:exe:comparison"
+
+    - path: "./app/comparison/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:comparison"
+
+    - path: "./app/complexstring/Main.hs"
+      component: "NoviSteps7Q:exe:complexstring"
+
+    - path: "./app/complexstring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:complexstring"
+
+    - path: "./app/countabc/Main.hs"
+      component: "NoviSteps7Q:exe:countabc"
+
+    - path: "./app/countabc/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:countabc"
+
+    - path: "./app/countballs/Main.hs"
+      component: "NoviSteps7Q:exe:countballs"
+
+    - path: "./app/countballs/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:countballs"
+
+    - path: "./app/craneandturtle/Main.hs"
+      component: "NoviSteps7Q:exe:craneandturtle"
+
+    - path: "./app/craneandturtle/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:craneandturtle"
+
+    - path: "./app/cut/Main.hs"
+      component: "NoviSteps7Q:exe:cut"
+
+    - path: "./app/cut/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:cut"
+
+    - path: "./app/deletedot/Main.hs"
+      component: "NoviSteps7Q:exe:deletedot"
+
+    - path: "./app/deletedot/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:deletedot"
+
+    - path: "./app/difference/Main.hs"
+      component: "NoviSteps7Q:exe:difference"
+
+    - path: "./app/difference/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:difference"
+
+    - path: "./app/digitalgifts/Main.hs"
+      component: "NoviSteps7Q:exe:digitalgifts"
+
+    - path: "./app/digitalgifts/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:digitalgifts"
+
+    - path: "./app/digitsums/Main.hs"
+      component: "NoviSteps7Q:exe:digitsums"
+
+    - path: "./app/digitsums/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:digitsums"
+
+    - path: "./app/distance/Main.hs"
+      component: "NoviSteps7Q:exe:distance"
+
+    - path: "./app/distance/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:distance"
+
+    - path: "./app/dorayaki/Main.hs"
+      component: "NoviSteps7Q:exe:dorayaki"
+
+    - path: "./app/dorayaki/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:dorayaki"
+
+    - path: "./app/echo/Main.hs"
+      component: "NoviSteps7Q:exe:echo"
+
+    - path: "./app/echo/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:echo"
+
+    - path: "./app/election2/Main.hs"
+      component: "NoviSteps7Q:exe:election2"
+
+    - path: "./app/election2/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:election2"
+
+    - path: "./app/fizzbuzzsum/Main.hs"
+      component: "NoviSteps7Q:exe:fizzbuzzsum"
+
+    - path: "./app/fizzbuzzsum/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:fizzbuzzsum"
+
+    - path: "./app/gluttontakahashi/Main.hs"
+      component: "NoviSteps7Q:exe:gluttontakahashi"
+
+    - path: "./app/gluttontakahashi/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:gluttontakahashi"
+
+    - path: "./app/goldenapple/Main.hs"
+      component: "NoviSteps7Q:exe:goldenapple"
+
+    - path: "./app/goldenapple/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:goldenapple"
+
+    - path: "./app/gotojail/Main.hs"
+      component: "NoviSteps7Q:exe:gotojail"
+
+    - path: "./app/gotojail/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:gotojail"
+
+    - path: "./app/harshadnumber/Main.hs"
+      component: "NoviSteps7Q:exe:harshadnumber"
+
+    - path: "./app/harshadnumber/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:harshadnumber"
+
+    - path: "./app/hinaarare/Main.hs"
+      component: "NoviSteps7Q:exe:hinaarare"
+
+    - path: "./app/hinaarare/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:hinaarare"
+
+    - path: "./app/hourhand/Main.hs"
+      component: "NoviSteps7Q:exe:hourhand"
+
+    - path: "./app/hourhand/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:hourhand"
+
+    - path: "./app/icecream/Main.hs"
+      component: "NoviSteps7Q:exe:icecream"
+
+    - path: "./app/icecream/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:icecream"
+
+    - path: "./app/insert/Main.hs"
+      component: "NoviSteps7Q:exe:insert"
+
+    - path: "./app/insert/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:insert"
+
+    - path: "./app/inversionofastring/Main.hs"
+      component: "NoviSteps7Q:exe:inversionofastring"
+
+    - path: "./app/inversionofastring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:inversionofastring"
+
+    - path: "./app/ioistring/Main.hs"
+      component: "NoviSteps7Q:exe:ioistring"
+
+    - path: "./app/ioistring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:ioistring"
+
+    - path: "./app/jobassignment/Main.hs"
+      component: "NoviSteps7Q:exe:jobassignment"
+
+    - path: "./app/jobassignment/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:jobassignment"
+
+    - path: "./app/joieditor/Main.hs"
+      component: "NoviSteps7Q:exe:joieditor"
+
+    - path: "./app/joieditor/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:joieditor"
+
+    - path: "./app/joiioi/Main.hs"
+      component: "NoviSteps7Q:exe:joiioi"
+
+    - path: "./app/joiioi/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:joiioi"
+
+    - path: "./app/judgestatussummary/Main.hs"
+      component: "NoviSteps7Q:exe:judgestatussummary"
+
+    - path: "./app/judgestatussummary/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:judgestatussummary"
+
+    - path: "./app/lucasnumber/Main.hs"
+      component: "NoviSteps7Q:exe:lucasnumber"
+
+    - path: "./app/lucasnumber/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:lucasnumber"
+
+    - path: "./app/magic3/Main.hs"
+      component: "NoviSteps7Q:exe:magic3"
+
+    - path: "./app/magic3/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:magic3"
+
+    - path: "./app/maximumdifference/Main.hs"
+      component: "NoviSteps7Q:exe:maximumdifference"
+
+    - path: "./app/maximumdifference/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:maximumdifference"
+
+    - path: "./app/maxsum/Main.hs"
+      component: "NoviSteps7Q:exe:maxsum"
+
+    - path: "./app/maxsum/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:maxsum"
+
+    - path: "./app/maxsumb/Main.hs"
+      component: "NoviSteps7Q:exe:maxsumb"
+
+    - path: "./app/maxsumb/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:maxsumb"
+
+    - path: "./app/minorchange/Main.hs"
+      component: "NoviSteps7Q:exe:minorchange"
+
+    - path: "./app/minorchange/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:minorchange"
+
+    - path: "./app/multipleof9/Main.hs"
+      component: "NoviSteps7Q:exe:multipleof9"
+
+    - path: "./app/multipleof9/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:multipleof9"
+
+    - path: "./app/nayuna/Main.hs"
+      component: "NoviSteps7Q:exe:nayuna"
+
+    - path: "./app/nayuna/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:nayuna"
+
+    - path: "./app/nextcharacter/Main.hs"
+      component: "NoviSteps7Q:exe:nextcharacter"
+
+    - path: "./app/nextcharacter/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:nextcharacter"
+
+    - path: "./app/oddstring/Main.hs"
+      component: "NoviSteps7Q:exe:oddstring"
+
+    - path: "./app/oddstring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:oddstring"
+
+    - path: "./app/oij/Main.hs"
+      component: "NoviSteps7Q:exe:oij"
+
+    - path: "./app/oij/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:oij"
+
+    - path: "./app/oneclue/Main.hs"
+      component: "NoviSteps7Q:exe:oneclue"
+
+    - path: "./app/oneclue/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:oneclue"
+
+    - path: "./app/ordinarynumbers/Main.hs"
+      component: "NoviSteps7Q:exe:ordinarynumbers"
+
+    - path: "./app/ordinarynumbers/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:ordinarynumbers"
+
+    - path: "./app/palace/Main.hs"
+      component: "NoviSteps7Q:exe:palace"
+
+    - path: "./app/palace/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:palace"
+
+    - path: "./app/palindromephilia/Main.hs"
+      component: "NoviSteps7Q:exe:palindromephilia"
+
+    - path: "./app/palindromephilia/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:palindromephilia"
+
+    - path: "./app/palindromicnumbers/Main.hs"
+      component: "NoviSteps7Q:exe:palindromicnumbers"
+
+    - path: "./app/palindromicnumbers/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:palindromicnumbers"
+
+    - path: "./app/papersplease/Main.hs"
+      component: "NoviSteps7Q:exe:papersplease"
+
+    - path: "./app/papersplease/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:papersplease"
+
+    - path: "./app/pianocompe/Main.hs"
+      component: "NoviSteps7Q:exe:pianocompe"
+
+    - path: "./app/pianocompe/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:pianocompe"
+
+    - path: "./app/playsunuke/Main.hs"
+      component: "NoviSteps7Q:exe:playsunuke"
+
+    - path: "./app/playsunuke/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:playsunuke"
+
+    - path: "./app/polygon/Main.hs"
+      component: "NoviSteps7Q:exe:polygon"
+
+    - path: "./app/polygon/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:polygon"
+
+    - path: "./app/popularvote/Main.hs"
+      component: "NoviSteps7Q:exe:popularvote"
+
+    - path: "./app/popularvote/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:popularvote"
+
+    - path: "./app/postalcode/Main.hs"
+      component: "NoviSteps7Q:exe:postalcode"
+
+    - path: "./app/postalcode/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:postalcode"
+
+    - path: "./app/registerparallel/Main.hs"
+      component: "NoviSteps7Q:exe:registerparallel"
+
+    - path: "./app/registerparallel/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:registerparallel"
+
+    - path: "./app/removeit/Main.hs"
+      component: "NoviSteps7Q:exe:removeit"
+
+    - path: "./app/removeit/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:removeit"
+
+    - path: "./app/repeatingstring/Main.hs"
+      component: "NoviSteps7Q:exe:repeatingstring"
+
+    - path: "./app/repeatingstring/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:repeatingstring"
+
+    - path: "./app/resale/Main.hs"
+      component: "NoviSteps7Q:exe:resale"
+
+    - path: "./app/resale/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:resale"
+
+    - path: "./app/rotn/Main.hs"
+      component: "NoviSteps7Q:exe:rotn"
+
+    - path: "./app/rotn/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:rotn"
+
+    - path: "./app/rounddown/Main.hs"
+      component: "NoviSteps7Q:exe:rounddown"
+
+    - path: "./app/rounddown/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:rounddown"
+
+    - path: "./app/scroll/Main.hs"
+      component: "NoviSteps7Q:exe:scroll"
+
+    - path: "./app/scroll/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:scroll"
+
+    - path: "./app/split/Main.hs"
+      component: "NoviSteps7Q:exe:split"
+
+    - path: "./app/split/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:split"
+
+    - path: "./app/sportsday/Main.hs"
+      component: "NoviSteps7Q:exe:sportsday"
+
+    - path: "./app/sportsday/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:sportsday"
+
+    - path: "./app/tallgates/Main.hs"
+      component: "NoviSteps7Q:exe:tallgates"
+
+    - path: "./app/tallgates/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:tallgates"
+
+    - path: "./app/tapdance/Main.hs"
+      component: "NoviSteps7Q:exe:tapdance"
+
+    - path: "./app/tapdance/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:tapdance"
+
+    - path: "./app/theater/Main.hs"
+      component: "NoviSteps7Q:exe:theater"
+
+    - path: "./app/theater/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:theater"
+
+    - path: "./app/threeconsecutive/Main.hs"
+      component: "NoviSteps7Q:exe:threeconsecutive"
+
+    - path: "./app/threeconsecutive/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:threeconsecutive"
+
+    - path: "./app/timecard/Main.hs"
+      component: "NoviSteps7Q:exe:timecard"
+
+    - path: "./app/timecard/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:timecard"
+
+    - path: "./app/travelingatcodeerproblem/Main.hs"
+      component: "NoviSteps7Q:exe:travelingatcodeerproblem"
+
+    - path: "./app/travelingatcodeerproblem/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:travelingatcodeerproblem"
+
+    - path: "./app/tripledots/Main.hs"
+      component: "NoviSteps7Q:exe:tripledots"
+
+    - path: "./app/tripledots/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:tripledots"
+
+    - path: "./app/unevennumbers/Main.hs"
+      component: "NoviSteps7Q:exe:unevennumbers"
+
+    - path: "./app/unevennumbers/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:unevennumbers"
+
+    - path: "./app/unleadabies/Main.hs"
+      component: "NoviSteps7Q:exe:unleadabies"
+
+    - path: "./app/unleadabies/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:unleadabies"
+
+    - path: "./app/variousdistances/Main.hs"
+      component: "NoviSteps7Q:exe:variousdistances"
+
+    - path: "./app/variousdistances/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:variousdistances"
+
+    - path: "./app/yymmormmyy/Main.hs"
+      component: "NoviSteps7Q:exe:yymmormmyy"
+
+    - path: "./app/yymmormmyy/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:yymmormmyy"
+
+    - path: "./test"
+      component: "NoviSteps7Q:test:NoviSteps7Q-doctest"
+
+    - path: "./test"
+      component: "NoviSteps7Q:test:NoviSteps7Q-test"
