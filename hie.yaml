@@ -51,6 +51,18 @@ cradle:
     - path: "./app/algae/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:algae"
 
+    - path: "./app/arc002b/Main.hs"
+      component: "NoviSteps7Q:exe:arc002b"
+
+    - path: "./app/arc002b/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:arc002b"
+
+    - path: "./app/arc023a/Main.hs"
+      component: "NoviSteps7Q:exe:arc023a"
+
+    - path: "./app/arc023a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:arc023a"
+
     - path: "./app/atcoderbeginnercontest111/Main.hs"
       component: "NoviSteps7Q:exe:atcoderbeginnercontest111"
 
@@ -176,6 +188,12 @@ cradle:
 
     - path: "./app/cut/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:cut"
+
+    - path: "./app/cyclic/Main.hs"
+      component: "NoviSteps7Q:exe:cyclic"
+
+    - path: "./app/cyclic/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:cyclic"
 
     - path: "./app/deletedot/Main.hs"
       component: "NoviSteps7Q:exe:deletedot"
@@ -447,6 +465,12 @@ cradle:
     - path: "./app/postalcode/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:postalcode"
 
+    - path: "./app/rearrangingabc/Main.hs"
+      component: "NoviSteps7Q:exe:rearrangingabc"
+
+    - path: "./app/rearrangingabc/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:rearrangingabc"
+
     - path: "./app/registerparallel/Main.hs"
       component: "NoviSteps7Q:exe:registerparallel"
 
@@ -500,6 +524,12 @@ cradle:
 
     - path: "./app/sportsday/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:sportsday"
+
+    - path: "./app/takahashisan2/Main.hs"
+      component: "NoviSteps7Q:exe:takahashisan2"
+
+    - path: "./app/takahashisan2/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:takahashisan2"
 
     - path: "./app/tallgates/Main.hs"
       component: "NoviSteps7Q:exe:tallgates"

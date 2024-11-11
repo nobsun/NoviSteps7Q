@@ -130,6 +130,46 @@ library:
   source-dirs: src
 
 executables:
+  cyclic:
+    main:               Main.hs
+    source-dirs:        app/cyclic
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc002b:
+    main:               Main.hs
+    source-dirs:        app/arc002b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc023a:
+    main:               Main.hs
+    source-dirs:        app/arc023a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  rearrangingabc:
+    main:               Main.hs
+    source-dirs:        app/rearrangingabc
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  takahashisan2:
+    main:               Main.hs
+    source-dirs:        app/takahashisan2
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   maxsumb:
     main:               Main.hs
     source-dirs:        app/maxsumb
