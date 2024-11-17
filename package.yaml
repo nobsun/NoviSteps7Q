@@ -130,6 +130,14 @@ library:
   source-dirs: src
 
 executables:
+  123233:
+    main:               Main.hs
+    source-dirs:        app/123233
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   cyclic:
     main:               Main.hs
     source-dirs:        app/cyclic

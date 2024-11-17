@@ -3,6 +3,12 @@ cradle:
     - path: "./src"
       component: "NoviSteps7Q:lib"
 
+    - path: "./app/123233/Main.hs"
+      component: "NoviSteps7Q:exe:123233"
+
+    - path: "./app/123233/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:123233"
+
     - path: "./app/754/Main.hs"
       component: "NoviSteps7Q:exe:754"
 
