@@ -201,6 +201,18 @@ cradle:
     - path: "./app/cyclic/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:cyclic"
 
+    - path: "./app/dailycookie/Main.hs"
+      component: "NoviSteps7Q:exe:dailycookie"
+
+    - path: "./app/dailycookie/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:dailycookie"
+
+    - path: "./app/dailycookie2/Main.hs"
+      component: "NoviSteps7Q:exe:dailycookie2"
+
+    - path: "./app/dailycookie2/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:dailycookie2"
+
     - path: "./app/deletedot/Main.hs"
       component: "NoviSteps7Q:exe:deletedot"
 
