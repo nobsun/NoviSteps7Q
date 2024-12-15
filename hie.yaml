@@ -69,6 +69,12 @@ cradle:
     - path: "./app/arc023a/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:arc023a"
 
+    - path: "./app/arcdivision/Main.hs"
+      component: "NoviSteps7Q:exe:arcdivision"
+
+    - path: "./app/arcdivision/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:arcdivision"
+
     - path: "./app/atcoderbeginnercontest111/Main.hs"
       component: "NoviSteps7Q:exe:atcoderbeginnercontest111"
 
@@ -104,6 +110,12 @@ cradle:
 
     - path: "./app/biteeating/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:biteeating"
+
+    - path: "./app/bitoperation2/Main.hs"
+      component: "NoviSteps7Q:exe:bitoperation2"
+
+    - path: "./app/bitoperation2/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:bitoperation2"
 
     - path: "./app/bitteralchemy/Main.hs"
       component: "NoviSteps7Q:exe:bitteralchemy"

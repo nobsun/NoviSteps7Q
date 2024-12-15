@@ -130,6 +130,14 @@ library:
   source-dirs: src
 
 executables:
+  arcdivision:
+    main:               Main.hs
+    source-dirs:        app/arcdivision
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   dailycookie2:
     main:               Main.hs
     source-dirs:        app/dailycookie2
