@@ -130,6 +130,30 @@ library:
   source-dirs: src
 
 executables:
+  9x9sum:
+    main:               Main.hs
+    source-dirs:        app/9x9sum
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  equality:
+    main:               Main.hs
+    source-dirs:        app/equality
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc045a:
+    main:               Main.hs
+    source-dirs:        app/arc045a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   arcdivision:
     main:               Main.hs
     source-dirs:        app/arcdivision

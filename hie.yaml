@@ -21,6 +21,12 @@ cradle:
     - path: "./app/81/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:81"
 
+    - path: "./app/9x9sum/Main.hs"
+      component: "NoviSteps7Q:exe:9x9sum"
+
+    - path: "./app/9x9sum/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:9x9sum"
+
     - path: "./app/Main.hs"
       component: "NoviSteps7Q:exe:NoviSteps7Q"
 
@@ -69,6 +75,12 @@ cradle:
     - path: "./app/arc023a/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:arc023a"
 
+    - path: "./app/arc045a/Main.hs"
+      component: "NoviSteps7Q:exe:arc045a"
+
+    - path: "./app/arc045a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:arc045a"
+
     - path: "./app/arcdivision/Main.hs"
       component: "NoviSteps7Q:exe:arcdivision"
 
@@ -110,12 +122,6 @@ cradle:
 
     - path: "./app/biteeating/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:biteeating"
-
-    - path: "./app/bitoperation2/Main.hs"
-      component: "NoviSteps7Q:exe:bitoperation2"
-
-    - path: "./app/bitoperation2/Paths_NoviSteps7Q.hs"
-      component: "NoviSteps7Q:exe:bitoperation2"
 
     - path: "./app/bitteralchemy/Main.hs"
       component: "NoviSteps7Q:exe:bitteralchemy"
@@ -272,6 +278,12 @@ cradle:
 
     - path: "./app/election2/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:election2"
+
+    - path: "./app/equality/Main.hs"
+      component: "NoviSteps7Q:exe:equality"
+
+    - path: "./app/equality/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:equality"
 
     - path: "./app/fizzbuzzsum/Main.hs"
       component: "NoviSteps7Q:exe:fizzbuzzsum"
