@@ -130,6 +130,62 @@ library:
   source-dirs: src
 
 executables:
+  poisonousoyster:
+    main:               Main.hs
+    source-dirs:        app/poisonousoyster
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  bestbody:
+    main:               Main.hs
+    source-dirs:        app/bestbody
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc021a:
+    main:               Main.hs
+    source-dirs:        app/abc021a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc031a:
+    main:               Main.hs
+    source-dirs:        app/arc031a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  luckydirection:
+    main:               Main.hs
+    source-dirs:        app/luckydirection
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  past19a:
+    main:               Main.hs
+    source-dirs:        app/past19a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  past19b:
+    main:               Main.hs
+    source-dirs:        app/past19b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   9x9sum:
     main:               Main.hs
     source-dirs:        app/9x9sum

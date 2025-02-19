@@ -33,6 +33,12 @@ cradle:
     - path: "./app/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:NoviSteps7Q"
 
+    - path: "./app/abc021a/Main.hs"
+      component: "NoviSteps7Q:exe:abc021a"
+
+    - path: "./app/abc021a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:abc021a"
+
     - path: "./app/accepted/Main.hs"
       component: "NoviSteps7Q:exe:accepted"
 
@@ -75,6 +81,12 @@ cradle:
     - path: "./app/arc023a/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:arc023a"
 
+    - path: "./app/arc031a/Main.hs"
+      component: "NoviSteps7Q:exe:arc031a"
+
+    - path: "./app/arc031a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:arc031a"
+
     - path: "./app/arc045a/Main.hs"
       component: "NoviSteps7Q:exe:arc045a"
 
@@ -116,6 +128,12 @@ cradle:
 
     - path: "./app/bcomparison/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:bcomparison"
+
+    - path: "./app/bestbody/Main.hs"
+      component: "NoviSteps7Q:exe:bestbody"
+
+    - path: "./app/bestbody/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:bestbody"
 
     - path: "./app/biteeating/Main.hs"
       component: "NoviSteps7Q:exe:biteeating"
@@ -381,6 +399,12 @@ cradle:
     - path: "./app/lucasnumber/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:lucasnumber"
 
+    - path: "./app/luckydirection/Main.hs"
+      component: "NoviSteps7Q:exe:luckydirection"
+
+    - path: "./app/luckydirection/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:luckydirection"
+
     - path: "./app/magic3/Main.hs"
       component: "NoviSteps7Q:exe:magic3"
 
@@ -477,6 +501,18 @@ cradle:
     - path: "./app/papersplease/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:papersplease"
 
+    - path: "./app/past19a/Main.hs"
+      component: "NoviSteps7Q:exe:past19a"
+
+    - path: "./app/past19a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:past19a"
+
+    - path: "./app/past19b/Main.hs"
+      component: "NoviSteps7Q:exe:past19b"
+
+    - path: "./app/past19b/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:past19b"
+
     - path: "./app/pianocompe/Main.hs"
       component: "NoviSteps7Q:exe:pianocompe"
 
@@ -488,6 +524,12 @@ cradle:
 
     - path: "./app/playsunuke/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:playsunuke"
+
+    - path: "./app/poisonousoyster/Main.hs"
+      component: "NoviSteps7Q:exe:poisonousoyster"
+
+    - path: "./app/poisonousoyster/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:poisonousoyster"
 
     - path: "./app/polygon/Main.hs"
       component: "NoviSteps7Q:exe:polygon"
