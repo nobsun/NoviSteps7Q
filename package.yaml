@@ -130,6 +130,22 @@ library:
   source-dirs: src
 
 executables:
+  abc396a:
+    main:               Main.hs
+    source-dirs:        app/abc396a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc033a:
+    main:               Main.hs
+    source-dirs:        app/arc033a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   poisonousoyster:
     main:               Main.hs
     source-dirs:        app/poisonousoyster
