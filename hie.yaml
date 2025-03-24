@@ -57,6 +57,12 @@ cradle:
     - path: "./app/abc396a/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:abc396a"
 
+    - path: "./app/abc398a/Main.hs"
+      component: "NoviSteps7Q:exe:abc398a"
+
+    - path: "./app/abc398a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:abc398a"
+
     - path: "./app/accepted/Main.hs"
       component: "NoviSteps7Q:exe:accepted"
 

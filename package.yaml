@@ -130,6 +130,14 @@ library:
   source-dirs: src
 
 executables:
+  abc398a:
+    main:               Main.hs
+    source-dirs:        app/abc398a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   arc028a:
     main:               Main.hs
     source-dirs:        app/arc028a
