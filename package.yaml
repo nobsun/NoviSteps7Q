@@ -130,6 +130,246 @@ library:
   source-dirs: src
 
 executables:
+  abc422a:
+    main:               Main.hs
+    source-dirs:        app/abc422a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc040a:
+    main:               Main.hs
+    source-dirs:        app/abc040a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc038b:
+    main:               Main.hs
+    source-dirs:        app/abc038b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc033b:
+    main:               Main.hs
+    source-dirs:        app/abc033b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc031b:
+    main:               Main.hs
+    source-dirs:        app/abc031b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc030a:
+    main:               Main.hs
+    source-dirs:        app/abc030a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc028b:
+    main:               Main.hs
+    source-dirs:        app/abc028b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc028c:
+    main:               Main.hs
+    source-dirs:        app/abc028c
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc027a:
+    main:               Main.hs
+    source-dirs:        app/abc027a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc024a:
+    main:               Main.hs
+    source-dirs:        app/abc024a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc020b:
+    main:               Main.hs
+    source-dirs:        app/abc020b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc018a:
+    main:               Main.hs
+    source-dirs:        app/abc018a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc015b:
+    main:               Main.hs
+    source-dirs:        app/abc015b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc013b:
+    main:               Main.hs
+    source-dirs:        app/abc013b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc011b:
+    main:               Main.hs
+    source-dirs:        app/abc011b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc006a:
+    main:               Main.hs
+    source-dirs:        app/abc006a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc005b:
+    main:               Main.hs
+    source-dirs:        app/abc005b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc002b:
+    main:               Main.hs
+    source-dirs:        app/abc002b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc001c:
+    main:               Main.hs
+    source-dirs:        app/abc001c
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  apg4b-ex12:
+    main:               Main.hs
+    source-dirs:        app/apg4b-ex12
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  apg4b-ex7:
+    main:               Main.hs
+    source-dirs:        app/apg4b-ex7
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  joi2025yo1cc:
+    main:               Main.hs
+    source-dirs:        app/joi2025yo1cc
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  joi2025yo1bc:
+    main:               Main.hs
+    source-dirs:        app/joi2025yo1bc
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  joi2017yob:
+    main:               Main.hs
+    source-dirs:        app/joi2017yob
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  aising2020a:
+    main:               Main.hs
+    source-dirs:        app/aising2020a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  aising2020b:
+    main:               Main.hs
+    source-dirs:        app/aising2020b
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  tenka12015qualba:
+    main:               Main.hs
+    source-dirs:        app/tenka12015qualba
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc007c:
+    main:               Main.hs
+    source-dirs:        app/abc007c
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  arc052a:
+    main:               Main.hs
+    source-dirs:        app/arc052a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  abc403a:
+    main:               Main.hs
+    source-dirs:        app/abc403a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   abc398a:
     main:               Main.hs
     source-dirs:        app/abc398a
