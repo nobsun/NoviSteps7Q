@@ -585,6 +585,12 @@ cradle:
     - path: "./app/joi2025yo1cc/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:joi2025yo1cc"
 
+    - path: "./app/joi2026yo1bc/Main.hs"
+      component: "NoviSteps7Q:exe:joi2026yo1bc"
+
+    - path: "./app/joi2026yo1bc/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:joi2026yo1bc"
+
     - path: "./app/joieditor/Main.hs"
       component: "NoviSteps7Q:exe:joieditor"
 
@@ -597,11 +603,23 @@ cradle:
     - path: "./app/joiioi/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:joiioi"
 
+    - path: "./app/jsc2021a/Main.hs"
+      component: "NoviSteps7Q:exe:jsc2021a"
+
+    - path: "./app/jsc2021a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:jsc2021a"
+
     - path: "./app/judgestatussummary/Main.hs"
       component: "NoviSteps7Q:exe:judgestatussummary"
 
     - path: "./app/judgestatussummary/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:judgestatussummary"
+
+    - path: "./app/keyence2020a/Main.hs"
+      component: "NoviSteps7Q:exe:keyence2020a"
+
+    - path: "./app/keyence2020a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:keyence2020a"
 
     - path: "./app/lucasnumber/Main.hs"
       component: "NoviSteps7Q:exe:lucasnumber"
@@ -896,6 +914,12 @@ cradle:
 
     - path: "./app/yymmormmyy/Paths_NoviSteps7Q.hs"
       component: "NoviSteps7Q:exe:yymmormmyy"
+
+    - path: "./app/zone2021a/Main.hs"
+      component: "NoviSteps7Q:exe:zone2021a"
+
+    - path: "./app/zone2021a/Paths_NoviSteps7Q.hs"
+      component: "NoviSteps7Q:exe:zone2021a"
 
     - path: "./test"
       component: "NoviSteps7Q:test:NoviSteps7Q-doctest"

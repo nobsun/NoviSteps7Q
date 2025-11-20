@@ -130,6 +130,38 @@ library:
   source-dirs: src
 
 executables:
+  joi2026yo1bc:
+    main:               Main.hs
+    source-dirs:        app/joi2026yo1bc
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  zone2021a:
+    main:               Main.hs
+    source-dirs:        app/zone2021a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  jsc2021a:
+    main:               Main.hs
+    source-dirs:        app/jsc2021a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
+  keyence2020a:
+    main:               Main.hs
+    source-dirs:        app/keyence2020a
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - NoviSteps7Q
+
   abc422a:
     main:               Main.hs
     source-dirs:        app/abc422a
